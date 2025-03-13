@@ -11,3 +11,6 @@ This are my snipets which i use in CP
 -  go to snipets
 -  search cpp.json
 -  paste the code in that
+
+
+[ NOTE: you will find that normal json files don't allow comments (//) but VS-code snipets file (cpp.json) does. read it once ]
