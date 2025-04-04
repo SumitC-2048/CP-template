@@ -1,6 +1,6 @@
 # CP-templates
-This repo has boiler-plate code for many cp-algorithm
-snippets are in C++
+This repo has boiler-plate code for many cp-algorithm. 
+snippets are in C++. 
 This are my snipets which i use in CP
 
  
